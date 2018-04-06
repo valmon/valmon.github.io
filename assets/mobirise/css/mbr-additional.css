@@ -586,7 +586,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1754,10 +1754,10 @@ body {
   color: #767676 !important;
 }
 .cid-qIusYFRM5m {
-  background: linear-gradient(45deg, #7fd9fc, #6576aa);
+  background-image: url("../../../assets/images/img-7149-1-2000x3000.jpg");
 }
 .cid-qIusYFRM5m H1 {
-  text-align: center;
+  text-align: left;
 }
 .cid-qIusYFRM5m .mbr-text,
 .cid-qIusYFRM5m .mbr-section-btn {
