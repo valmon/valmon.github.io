@@ -586,7 +586,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
-  display: none;
+  opacity: 0 !important;
 }
 #scrollToTop a i:before {
   content: '';
