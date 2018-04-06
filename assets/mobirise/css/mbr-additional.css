@@ -2480,6 +2480,9 @@ body {
 .cid-qOs3Qw3Xjy .mbr-text {
   color: #2e2e2e;
 }
+.cid-qOs3Qw3Xjy .mbr-text DIV {
+  text-align: left;
+}
 .cid-qOs1PjrQ8U .navbar {
   background: #ffffff;
   transition: none;
